@@ -8,31 +8,32 @@ const Skills = () => {
           <div class="grid gap-4 sm:grid-cols-12">
             <div class="col-span-12 sm:col-span-3">
               <div class="text-center sm:text-left mb-14 before:block before:w-24 before:h-3 before:mb-5 before:rounded-md before:mx-auto sm:before:mx-0 before:dark:bg-violet-400">
-                <h3 class="text-3xl font-semibold">Morbi tempor</h3>
+                <h3 class="text-3xl font-semibold">Work Experience</h3>
                
               </div>
             </div>
             <div class="col-span-12 sm:col-span-9">
               <div class="space-y-6 relative sm:before:absolute sm:before:top-2 sm:before:bottom-0 sm:before:w-0.5 sm:before:-left-3 before:dark:bg-gray-700">
                 <div class="flex flex-col sm:relative sm:before:absolute sm:before:top-2 sm:before:w-4 sm:before:h-4 sm:before:rounded-full sm:before:left-[-35px] sm:before:z-[1] before:dark:bg-violet-400">
-                  <h3 class="text-xl font-semibold tracking-wider">Donec porta enim vel</h3>
-                  <time class="text-xs tracking-wider uppercase dark:text-gray-400">Dec 2020</time>
+                  <h3 class="text-xl font-semibold tracking-wider">Web developer Intern</h3>
+                  <h1 class="text-s font-semibold tracking-wider">Nira Edge</h1>
+                  <time class="text-xs tracking-wider uppercase dark:text-gray-400">Aug 2023- Present</time>
                   <p class="mt-3">
-                    Pellentesque feugiat ante at nisl efficitur, in mollis orci scelerisque. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+                    Had a exposure to real world projects by building websites as pe the requirements of the customer. Contributed in projects such as Ecommerce website , coaching website and a fractional marketing website.
                   </p>
                 </div>
                 <div class="flex flex-col sm:relative sm:before:absolute sm:before:top-2 sm:before:w-4 sm:before:h-4 sm:before:rounded-full sm:before:left-[-35px] sm:before:z-[1] before:dark:bg-violet-400">
-                  <h3 class="text-xl font-semibold tracking-wider">Aliquam sit amet nunc ut</h3>
-                  <time class="text-xs tracking-wider uppercase dark:text-gray-400">Jul 2019</time>
+                  <h3 class="text-xl font-semibold tracking-wider">Frontend Developer Intern</h3>
+                  <time class="text-xs tracking-wider uppercase dark:text-gray-400">Aug 2023 - Sep 2023</time>
                   <p class="mt-3">
-                    Morbi vulputate aliquam libero non dictum. Aliquam sit amet nunc ut diam aliquet tincidunt nec nec dui. Donec mollis turpis eget egestas sodales.
+                    Use technologies such as React.Js, Tailwind CSS and other frontend development technologies to build website of a construction company and a NGO. 
                   </p>
                 </div>
                 <div class="flex flex-col sm:relative sm:before:absolute sm:before:top-2 sm:before:w-4 sm:before:h-4 sm:before:rounded-full sm:before:left-[-35px] sm:before:z-[1] before:dark:bg-violet-400">
-                  <h3 class="text-xl font-semibold tracking-wider">Pellentesque habitant morbi</h3>
-                  <time class="text-xs tracking-wider uppercase dark:text-gray-400">Jan 2016</time>
+                  <h3 class="text-xl font-semibold tracking-wider">IEEE-PCS</h3>
+                  <time class="text-xs tracking-wider uppercase dark:text-gray-400">October 2021</time>
                   <p class="mt-3">
-                    Suspendisse tincidunt, arcu nec faucibus efficitur, justo velit consectetur nisl, sit amet condimentum lacus orci nec purus. Mauris quis quam suscipit, vehicula felis id, vehicula enim.
+                    Contributed in technical domain 
                   </p>
                 </div>
               </div>

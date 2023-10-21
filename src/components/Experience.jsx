@@ -4,6 +4,7 @@ import css from "/Full stack Projects/portfolio_shubhangi/one-portfolio/src/t/ex
 import javascript from "/Full stack Projects/portfolio_shubhangi/one-portfolio/src/t/experience/javascript.png";
 import reactImage from "/Full stack Projects/portfolio_shubhangi/one-portfolio/src/t/experience/react.png";
 import tailwind from "/Full stack Projects/portfolio_shubhangi/one-portfolio/src/t/experience/tailwind.png";
+import node from "/Full stack Projects/portfolio_shubhangi/one-portfolio/src/t/experience/node.png";
 
 const Experience = () => {
   const experience = [
@@ -32,6 +33,11 @@ const Experience = () => {
       title: "Tailwind",
       src: tailwind,
     },
+    {
+        id: 6,
+        title: "Node",
+        src: node,
+      },
   ];
 
   return (

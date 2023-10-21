@@ -10,11 +10,11 @@ const About = () => {
                 </div>
             </div>
             <p className="text-xl mt20">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id officia quos, quia sunt, eius dignissimos illo corrupti neque odio, pariatur ullam optio minus voluptatem rem animi. Enim veniam dolores repellat.
+            Sophomore at VIT Vellore in CSE with Block chain Technolgy.Aspiring Software Developer. Enthusiastic about problem-solving.Skilled in C++(Programming language), C, Python, SQL and Web development (HTML, CSS, JAVASCRIPT, REACT). Free to Work on any Software Domain, which makes me learn and grow.
             </p>
             <br />
-            <p className="text-xl">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id officia quos, quia sunt, eius dignissimos illo corrupti neque odio, pariatur ullam optio minus voluptatem rem animi. Enim veniam dolores repellat.
+            <p className="text-xl mt-10">
+            My journey into the world of programming began with a fascination for technology. I started by learning the basics of HTML, CSS, and JavaScript, and I was immediately hooked. Over the years, I've honed my skills, expanded my knowledge, and embraced new technologies to stay at the forefront of the industry.As a full-stack developer, I have the unique ability to work on both the front-end and back-end of web applications. Whether it's building responsive user interfaces, optimizing database performance, or implementing complex server-side logic, I enjoy the challenges that come with being a full-stack developer.
             </p>
         </div>
     </div>
