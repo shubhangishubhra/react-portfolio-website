@@ -41,7 +41,7 @@ const Experience = () => {
   ];
 
   return (
-    <div name="skills" className="bg-gradient-to-b from-gray-800 to-black w-full h-screen text-white">
+    <div name="skills" className="w-full h-auto flex flex-col  bg-black dark:bg-white text-white dark:text-black pt-40 pb-40 ">
       <div className=" w-full h-full max-w-screen-lg mx-auto p-4">
         <div className="flex items-center justify-center">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500 text-center">Skills</p>
